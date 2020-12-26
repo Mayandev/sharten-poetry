@@ -1,84 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[夏腾的诗集]]></title><description><![CDATA[夏腾的诗集]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 26 Dec 2020 12:49:25 GMT</lastBuildDate><item><title><![CDATA[仙乐]]></title><description><![CDATA[独卧古舍任鸟鸣，楼台合树正风清。
-弹琴笑问门外客。仙乐凡尘何曾听？]]></description><link>null/poetry/仙乐/</link><guid isPermaLink="false">null/poetry/仙乐/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;独卧古舍任鸟鸣，楼台合树正风清。&lt;br&gt;
-弹琴笑问门外客。仙乐凡尘何曾听？&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[塞外]]></title><description><![CDATA[烈马秋啸去，暮云满朔河。
-折草烽火泪，晓梦忆南柯。
-落日映疾蹄，流矢破微波。
-长沙掩戍骨，霜重苦寒多。]]></description><link>null/poetry/塞外/</link><guid isPermaLink="false">null/poetry/塞外/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;烈马秋啸去，暮云满朔河。&lt;br&gt;
-折草烽火泪，晓梦忆南柯。&lt;br&gt;
-落日映疾蹄，流矢破微波。&lt;br&gt;
-长沙掩戍骨，霜重苦寒多。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[化蝶]]></title><description><![CDATA[岁老春秋尽，暮色群客归。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[夏腾的诗集]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://mayandev.top/sharten-poetry</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 26 Dec 2020 12:55:45 GMT</lastBuildDate><item><title><![CDATA[仙乐]]></title><description><![CDATA[独卧古舍任鸟鸣，楼台合树正风清。
+弹琴笑问门外客。仙乐凡尘何曾听？]]></description><link>https://mayandev.top/sharten-poetry/poetry/仙乐/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/仙乐/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;独卧古舍任鸟鸣，楼台合树正风清。&lt;br&gt;
+弹琴笑问门外客。仙乐凡尘何曾听？&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[出塞]]></title><description><![CDATA[朔野行道难，胡虏满天山。 黄沙使骑骨，金刀玉门关。 病老辞烈酒，雄心跨尘鞍。 洒血浴飞鸪，匹马裹身还。]]></description><link>https://mayandev.top/sharten-poetry/poetry/出塞/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/出塞/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;朔野行道难，胡虏满天山。&lt;/p&gt;
+&lt;p&gt;黄沙使骑骨，金刀玉门关。&lt;/p&gt;
+&lt;p&gt;病老辞烈酒，雄心跨尘鞍。&lt;/p&gt;
+&lt;p&gt;洒血浴飞鸪，匹马裹身还。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[化蝶]]></title><description><![CDATA[岁老春秋尽，暮色群客归。
 行歌拂野荠，击棹流月摧。
 柱杖柴门候，对日踏斜晖。
-蝶飞无相宿，翩翩落柴扉。]]></description><link>null/poetry/化蝶/</link><guid isPermaLink="false">null/poetry/化蝶/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;岁老春秋尽，暮色群客归。&lt;br&gt;
+蝶飞无相宿，翩翩落柴扉。]]></description><link>https://mayandev.top/sharten-poetry/poetry/化蝶/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/化蝶/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;岁老春秋尽，暮色群客归。&lt;br&gt;
 行歌拂野荠，击棹流月摧。&lt;br&gt;
 柱杖柴门候，对日踏斜晖。&lt;br&gt;
-蝶飞无相宿，翩翩落柴扉。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[夜忆]]></title><description><![CDATA[云远天共长，斜晖落禅房。
-独对伤秋树，自言世事苍。
-时忆故人月，相映共愁肠。
-今生照难眠，来此夜未央。]]></description><link>null/poetry/夜忆/</link><guid isPermaLink="false">null/poetry/夜忆/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;云远天共长，斜晖落禅房。&lt;br&gt;
-独对伤秋树，自言世事苍。&lt;br&gt;
-时忆故人月，相映共愁肠。&lt;br&gt;
-今生照难眠，来此夜未央。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[夜见灯火]]></title><description><![CDATA[烛影邻家月未眠，心事眉锁奈愁颜。
-风声焰语同孤夜，灯火明灭九重天。]]></description><link>null/poetry/夜见灯火/</link><guid isPermaLink="false">null/poetry/夜见灯火/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;烛影邻家月未眠，心事眉锁奈愁颜。&lt;br&gt;
-风声焰语同孤夜，灯火明灭九重天。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[层楼]]></title><description><![CDATA[层楼复层楼，楼深栖宿愁。
+蝶飞无相宿，翩翩落柴扉。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[层楼]]></title><description><![CDATA[层楼复层楼，楼深栖宿愁。
 灯碎似花落，月迷如情眸。
 鸟鸣微风起，骤冷几度秋。
-叶落自有情，凋零共枝头。]]></description><link>null/poetry/层楼/</link><guid isPermaLink="false">null/poetry/层楼/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;层楼复层楼，楼深栖宿愁。&lt;br&gt;
+叶落自有情，凋零共枝头。]]></description><link>https://mayandev.top/sharten-poetry/poetry/层楼/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/层楼/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;层楼复层楼，楼深栖宿愁。&lt;br&gt;
 灯碎似花落，月迷如情眸。&lt;br&gt;
 鸟鸣微风起，骤冷几度秋。&lt;br&gt;
-叶落自有情，凋零共枝头。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[山西]]></title><description><![CDATA[碧霞映华殿，飞龙过山庄。
+叶落自有情，凋零共枝头。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[塞外]]></title><description><![CDATA[烈马秋啸去，暮云满朔河。
+折草烽火泪，晓梦忆南柯。
+落日映疾蹄，流矢破微波。
+长沙掩戍骨，霜重苦寒多。]]></description><link>https://mayandev.top/sharten-poetry/poetry/塞外/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/塞外/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;烈马秋啸去，暮云满朔河。&lt;br&gt;
+折草烽火泪，晓梦忆南柯。&lt;br&gt;
+落日映疾蹄，流矢破微波。&lt;br&gt;
+长沙掩戍骨，霜重苦寒多。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[夜忆]]></title><description><![CDATA[云远天共长，斜晖落禅房。
+独对伤秋树，自言世事苍。
+时忆故人月，相映共愁肠。
+今生照难眠，来此夜未央。]]></description><link>https://mayandev.top/sharten-poetry/poetry/夜忆/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/夜忆/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;云远天共长，斜晖落禅房。&lt;br&gt;
+独对伤秋树，自言世事苍。&lt;br&gt;
+时忆故人月，相映共愁肠。&lt;br&gt;
+今生照难眠，来此夜未央。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[山西]]></title><description><![CDATA[碧霞映华殿，飞龙过山庄。
 云远空高廓，瘦径曲折长。
 清晓微风路，日暮翠野莽。
-绝顶江山阔，山外重山藏。]]></description><link>null/poetry/山西/</link><guid isPermaLink="false">null/poetry/山西/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;碧霞映华殿，飞龙过山庄。&lt;br&gt;
+绝顶江山阔，山外重山藏。]]></description><link>https://mayandev.top/sharten-poetry/poetry/山西/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/山西/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;碧霞映华殿，飞龙过山庄。&lt;br&gt;
 云远空高廓，瘦径曲折长。&lt;br&gt;
 清晓微风路，日暮翠野莽。&lt;br&gt;
-绝顶江山阔，山外重山藏。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[幻舟]]></title><description><![CDATA[思情飞絮落青檐，旧水津台月未眠。
-茶暖春归唤新雨，好梦舟晚泊云边。]]></description><link>null/poetry/幻舟/</link><guid isPermaLink="false">null/poetry/幻舟/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;思情飞絮落青檐，旧水津台月未眠。&lt;br&gt;
-茶暖春归唤新雨，好梦舟晚泊云边。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[晓醉]]></title><description><![CDATA[零落丝雨起离情，沽醉忘路彻天明。
-不见长安不见月，余酒杯洒漠路吟。]]></description><link>null/poetry/晓醉/</link><guid isPermaLink="false">null/poetry/晓醉/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;零落丝雨起离情，沽醉忘路彻天明。&lt;br&gt;
-不见长安不见月，余酒杯洒漠路吟。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[山居]]></title><description><![CDATA[玉树桥下临溪水，日色尚午出渔家。
-闲来自扫苔阶绿，窗开独倚罢午茶。]]></description><link>null/poetry/山居/</link><guid isPermaLink="false">null/poetry/山居/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;玉树桥下临溪水，日色尚午出渔家。&lt;br&gt;
+绝顶江山阔，山外重山藏。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[夜见灯火]]></title><description><![CDATA[烛影邻家月未眠，心事眉锁奈愁颜。
+风声焰语同孤夜，灯火明灭九重天。]]></description><link>https://mayandev.top/sharten-poetry/poetry/夜见灯火/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/夜见灯火/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;烛影邻家月未眠，心事眉锁奈愁颜。&lt;br&gt;
+风声焰语同孤夜，灯火明灭九重天。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[幻舟]]></title><description><![CDATA[思情飞絮落青檐，旧水津台月未眠。
+茶暖春归唤新雨，好梦舟晚泊云边。]]></description><link>https://mayandev.top/sharten-poetry/poetry/幻舟/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/幻舟/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;思情飞絮落青檐，旧水津台月未眠。&lt;br&gt;
+茶暖春归唤新雨，好梦舟晚泊云边。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[山居]]></title><description><![CDATA[玉树桥下临溪水，日色尚午出渔家。
+闲来自扫苔阶绿，窗开独倚罢午茶。]]></description><link>https://mayandev.top/sharten-poetry/poetry/山居/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/山居/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;玉树桥下临溪水，日色尚午出渔家。&lt;br&gt;
 闲来自扫苔阶绿，窗开独倚罢午茶。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[感怀]]></title><description><![CDATA[愁眼望春尽，楼台山外山。
 雨破窗纱动，风摧客心寒。
 独忆相思切，自念孤心残。
-谁怜风雨夜，夜久湿阑干。]]></description><link>null/poetry/感怀/</link><guid isPermaLink="false">null/poetry/感怀/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;愁眼望春尽，楼台山外山。&lt;br&gt;
+谁怜风雨夜，夜久湿阑干。]]></description><link>https://mayandev.top/sharten-poetry/poetry/感怀/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/感怀/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;愁眼望春尽，楼台山外山。&lt;br&gt;
 雨破窗纱动，风摧客心寒。&lt;br&gt;
 独忆相思切，自念孤心残。&lt;br&gt;
-谁怜风雨夜，夜久湿阑干。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[梦入古寺]]></title><description><![CDATA[层云起重光，孤寺连曲廊。
+谁怜风雨夜，夜久湿阑干。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[晓醉]]></title><description><![CDATA[零落丝雨起离情，沽醉忘路彻天明。
+不见长安不见月，余酒杯洒漠路吟。]]></description><link>https://mayandev.top/sharten-poetry/poetry/晓醉/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/晓醉/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;零落丝雨起离情，沽醉忘路彻天明。&lt;br&gt;
+不见长安不见月，余酒杯洒漠路吟。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[梦入古寺]]></title><description><![CDATA[层云起重光，孤寺连曲廊。
 动人山阶绿，迷醉脱骨香。
 风扫千秋叶，僧卧小禅房。
-弹琴忘归意，雨路尽苍茫。]]></description><link>null/poetry/梦入古寺/</link><guid isPermaLink="false">null/poetry/梦入古寺/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;层云起重光，孤寺连曲廊。&lt;br&gt;
+弹琴忘归意，雨路尽苍茫。]]></description><link>https://mayandev.top/sharten-poetry/poetry/梦入古寺/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/梦入古寺/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;层云起重光，孤寺连曲廊。&lt;br&gt;
 动人山阶绿，迷醉脱骨香。&lt;br&gt;
 风扫千秋叶，僧卧小禅房。&lt;br&gt;
-弹琴忘归意，雨路尽苍茫。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[月色]]></title><description><![CDATA[南轩晚向疏柳林，夜色咫尺巷阶新。
-漫寥道行生丛绿，楼台静卧听虫声。]]></description><link>null/poetry/月色/</link><guid isPermaLink="false">null/poetry/月色/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;南轩晚向疏柳林，夜色咫尺巷阶新。&lt;br&gt;
-漫寥道行生丛绿，楼台静卧听虫声。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[琵琶语]]></title><description><![CDATA[自卧无相趣，孤听琵琶语。
-始忆少年事，弦转人独泣。
-泪眼人尽逝，衰颜霜秋密。
-梦锁故乡月，千秋向荒隅。]]></description><link>null/poetry/琵琶语/</link><guid isPermaLink="false">null/poetry/琵琶语/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;自卧无相趣，孤听琵琶语。&lt;br&gt;
-始忆少年事，弦转人独泣。&lt;br&gt;
-泪眼人尽逝，衰颜霜秋密。&lt;br&gt;
-梦锁故乡月，千秋向荒隅。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[清明]]></title><description><![CDATA[闲卧春深落孤愁，远野荒疏似病秋。
-佳节日长人虚度，鸣鸟无端入竹牖。]]></description><link>null/poetry/清明/</link><guid isPermaLink="false">null/poetry/清明/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;闲卧春深落孤愁，远野荒疏似病秋。&lt;br&gt;
-佳节日长人虚度，鸣鸟无端入竹牖。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[出塞]]></title><description><![CDATA[朔野行道难，胡虏满天山。 黄沙使骑骨，金刀玉门关。 病老辞烈酒，雄心跨尘鞍。 洒血浴飞鸪，匹马裹身还。]]></description><link>null/poetry/出塞/</link><guid isPermaLink="false">null/poetry/出塞/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;朔野行道难，胡虏满天山。&lt;/p&gt;
-&lt;p&gt;黄沙使骑骨，金刀玉门关。&lt;/p&gt;
-&lt;p&gt;病老辞烈酒，雄心跨尘鞍。&lt;/p&gt;
-&lt;p&gt;洒血浴飞鸪，匹马裹身还。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[老态]]></title><description><![CDATA[身世幻迷摧风月，老态歧旅忆欢谑。
-渐远最是梦中人，颦笑犹泪孤自噎。]]></description><link>null/poetry/老态/</link><guid isPermaLink="false">null/poetry/老态/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;身世幻迷摧风月，老态歧旅忆欢谑。&lt;br&gt;
-渐远最是梦中人，颦笑犹泪孤自噎。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[梦入古寺]]></title><description><![CDATA[一月三春白发雨，千峰万木红径斜。
-欲得短篱深山菊，总是寻人问陶家。]]></description><link>null/poetry/陶菊/</link><guid isPermaLink="false">null/poetry/陶菊/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;一月三春白发雨，千峰万木红径斜。&lt;br&gt;
-欲得短篱深山菊，总是寻人问陶家。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[黄昏]]></title><description><![CDATA[山老日色垂，人移月影随。
-林深履初定，宿客鸟惊飞。]]></description><link>null/poetry/黄昏/</link><guid isPermaLink="false">null/poetry/黄昏/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;山老日色垂，人移月影随。&lt;br&gt;
-林深履初定，宿客鸟惊飞。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[遥世叹]]></title><description><![CDATA[南望相思泪成行，春发又红豆。无意相采撷，早寒湿袖。
+弹琴忘归意，雨路尽苍茫。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[黄昏]]></title><description><![CDATA[山老日色垂，人移月影随。
+林深履初定，宿客鸟惊飞。]]></description><link>https://mayandev.top/sharten-poetry/poetry/黄昏/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/黄昏/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;山老日色垂，人移月影随。&lt;br&gt;
+林深履初定，宿客鸟惊飞。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[清明]]></title><description><![CDATA[闲卧春深落孤愁，远野荒疏似病秋。
+佳节日长人虚度，鸣鸟无端入竹牖。]]></description><link>https://mayandev.top/sharten-poetry/poetry/清明/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/清明/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;闲卧春深落孤愁，远野荒疏似病秋。&lt;br&gt;
+佳节日长人虚度，鸣鸟无端入竹牖。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[月色]]></title><description><![CDATA[南轩晚向疏柳林，夜色咫尺巷阶新。
+漫寥道行生丛绿，楼台静卧听虫声。]]></description><link>https://mayandev.top/sharten-poetry/poetry/月色/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/月色/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;南轩晚向疏柳林，夜色咫尺巷阶新。&lt;br&gt;
+漫寥道行生丛绿，楼台静卧听虫声。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[遥世叹]]></title><description><![CDATA[南望相思泪成行，春发又红豆。无意相采撷，早寒湿袖。
 私念念语阑，无人知；弃我孤候，十三载。
 独身曾依旧，红尘未老恩先断，愁肠作怨。
-赋尽白发，花未眠。影发衰容，秉烛昨夜叹。]]></description><link>null/poetry/遥世叹/</link><guid isPermaLink="false">null/poetry/遥世叹/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;南望相思泪成行，春发又红豆。无意相采撷，早寒湿袖。&lt;br&gt;
+赋尽白发，花未眠。影发衰容，秉烛昨夜叹。]]></description><link>https://mayandev.top/sharten-poetry/poetry/遥世叹/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/遥世叹/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;南望相思泪成行，春发又红豆。无意相采撷，早寒湿袖。&lt;br&gt;
 私念念语阑，无人知；弃我孤候，十三载。&lt;br&gt;
 独身曾依旧，红尘未老恩先断，愁肠作怨。&lt;br&gt;
-赋尽白发，花未眠。影发衰容，秉烛昨夜叹。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[佳节]]></title><description><![CDATA[犹忆佳节近乡时，经年古道草木深。
+赋尽白发，花未眠。影发衰容，秉烛昨夜叹。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[琵琶语]]></title><description><![CDATA[自卧无相趣，孤听琵琶语。
+始忆少年事，弦转人独泣。
+泪眼人尽逝，衰颜霜秋密。
+梦锁故乡月，千秋向荒隅。]]></description><link>https://mayandev.top/sharten-poetry/poetry/琵琶语/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/琵琶语/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;自卧无相趣，孤听琵琶语。&lt;br&gt;
+始忆少年事，弦转人独泣。&lt;br&gt;
+泪眼人尽逝，衰颜霜秋密。&lt;br&gt;
+梦锁故乡月，千秋向荒隅。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[梦入古寺]]></title><description><![CDATA[一月三春白发雨，千峰万木红径斜。
+欲得短篱深山菊，总是寻人问陶家。]]></description><link>https://mayandev.top/sharten-poetry/poetry/陶菊/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/陶菊/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;一月三春白发雨，千峰万木红径斜。&lt;br&gt;
+欲得短篱深山菊，总是寻人问陶家。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[老态]]></title><description><![CDATA[身世幻迷摧风月，老态歧旅忆欢谑。
+渐远最是梦中人，颦笑犹泪孤自噎。]]></description><link>https://mayandev.top/sharten-poetry/poetry/老态/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/老态/</guid><pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;身世幻迷摧风月，老态歧旅忆欢谑。&lt;br&gt;
+渐远最是梦中人，颦笑犹泪孤自噎。&lt;br&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[佳节]]></title><description><![CDATA[犹忆佳节近乡时，经年古道草木深。
 寥落芳草迎春色，风低落花叩邻门。
 茶凉树下绿荫浓，墨散庭前柳絮纷。
-向晚长者倚窗月，笑谈往事少年人。]]></description><link>null/poetry/佳节/</link><guid isPermaLink="false">null/poetry/佳节/</guid><pubDate>Sat, 04 May 2013 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;犹忆佳节近乡时，经年古道草木深。&lt;br&gt;
+向晚长者倚窗月，笑谈往事少年人。]]></description><link>https://mayandev.top/sharten-poetry/poetry/佳节/</link><guid isPermaLink="false">https://mayandev.top/sharten-poetry/poetry/佳节/</guid><pubDate>Sat, 04 May 2013 16:00:00 GMT</pubDate><content:encoded>&lt;p&gt;犹忆佳节近乡时，经年古道草木深。&lt;br&gt;
 寥落芳草迎春色，风低落花叩邻门。&lt;br&gt;
 茶凉树下绿荫浓，墨散庭前柳絮纷。&lt;br&gt;
 向晚长者倚窗月，笑谈往事少年人。&lt;br&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
