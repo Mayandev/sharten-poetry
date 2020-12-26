@@ -1,5 +1,8 @@
 /* CSS Custom Properties Definitions */
-
+@font-face {
+  font-family: 'font-hans';
+  src: url('./font/han.otf');
+}
 :root {
   --maxWidth-none: "none";
   --maxWidth-xs: 20rem;
@@ -14,9 +17,9 @@
   --maxWidth-wrapper: var(--maxWidth-2xl);
   --spacing-px: "1px";
   --spacing-0: 0;
-  --spacing-1: 0.25rem;
-  --spacing-2: 0.5rem;
-  --spacing-3: 0.75rem;
+  --spacing-1: .25rem;
+  --spacing-2: .5rem;
+  --spacing-3: .75rem;
   --spacing-4: 1rem;
   --spacing-5: 1.25rem;
   --spacing-6: 1.5rem;
@@ -27,12 +30,14 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
+  --font-hans: 'font-hans', "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;
+  --font-italic: "font/han.otf", Georgia-BoldItalic, STSongti-SC-Regular, serif;
   --fontFamily-sans: Montserrat, system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
+  --fontFamily-sans: "Merriweather", "Georgia", Cambria, "Times New Roman",
     Times, serif;
-  --font-body: var(--fontFamily-serif);
+  --font-body: var(--fontFamily-sans);
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
   --fontWeight-medium: 500;
@@ -45,8 +50,9 @@
   --lineHeight-tight: 1.1;
   --lineHeight-normal: 1.5;
   --lineHeight-relaxed: 1.625;
+
   /* 1.200 Minor Third Type Scale */
-  --fontSize-0: 0.833rem;
+  --fontSize-0: .833rem;
   --fontSize-1: 1rem;
   --fontSize-2: 1.2rem;
   --fontSize-3: 1.44rem;
@@ -54,12 +60,21 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
-  --color-text: #2e353f;
+  --color-primary: #6e4832;
+  --color-text: #6e4832;
   --color-text-light: #4f5969;
-  --color-heading: #1a202c;
+  --color-heading: #6e4832;
   --color-heading-black: black;
-  --color-accent: #d1dce5;
+  --color-accent: #faddcc;
+  --color-bg: #f9f5ed;
+  --color-link: #4484c2;
+  --active-file-bg-color: #dadada;
+  --active-file-bg-color: rgba(32, 43, 51, .63);
+  --active-file-text-color: white;
+
+  --side-bar-bg-color: #f5f5f5;
+  --control-text-color: #666;
+
 }
 
 /* HTML elements */
@@ -81,6 +96,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background-color: var(--color-bg);
 }
 
 footer {
@@ -105,7 +121,7 @@ h6 {
   margin-top: var(--spacing-12);
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-tight);
-  letter-spacing: -0.025em;
+  letter-spacing: -.025em;
 }
 
 h2,
@@ -120,7 +136,7 @@ h6 {
 h1 {
   font-weight: var(--fontWeight-black);
   font-size: var(--fontSize-6);
-  color: var(--color-heading-black);
+  color: var(--color-heading);
 }
 
 h2 {
@@ -161,8 +177,8 @@ h6 > a {
 
 p {
   line-height: var(--lineHeight-relaxed);
-  --baseline-multiplier: 0.179;
-  --x-height-multiplier: 0.35;
+  --baseline-multiplier: .179;
+  --x-height-multiplier: .35;
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
   padding: var(--spacing-0);
 }
@@ -220,7 +236,7 @@ table {
   width: 100%;
   margin-bottom: var(--spacing-8);
   border-collapse: collapse;
-  border-spacing: 0.25rem;
+  border-spacing: .25rem;
 }
 
 table thead tr th {
@@ -230,7 +246,7 @@ table thead tr th {
 /* Link */
 
 a {
-  color: var(--color-primary);
+  color: var(--color-link);
 }
 
 a:hover,
@@ -322,10 +338,12 @@ a:focus {
 /* Media queries */
 
 @media (max-width: 42rem) {
+
   blockquote {
     padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-4);
     margin-left: var(--spacing-0);
   }
+
   ul,
   ol {
     list-style-position: inside;
