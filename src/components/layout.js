@@ -28,6 +28,8 @@ const Layout = ({ location, title, children }) => {
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
+        {` `}&nbsp;
+        <a href="https://mayandev.top/sharten-poetry/rss.xml">订阅诗集</a>
       </footer>
     </div>
   )
